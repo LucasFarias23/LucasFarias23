@@ -1,16 +1,50 @@
-## Hi there 👋
+# Lucas Farias
 
-<!--
-**LucasFarias23/LucasFarias23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst & Business Intelligence
 
-Here are some ideas to get you started:
+Estudante de Ciência da Computação com experiência prática em análise de dados, Business Intelligence e desenvolvimento de dashboards analíticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo na transformação de dados em informações para apoio à tomada de decisão, combinando análise de negócio, visualização de dados e desenvolvimento de soluções em BI.
+
+---
+
+## 🛠️ Technologies
+
+- **Business Intelligence:** Power BI, DAX, Power Query
+- **Data:** SQL, Data Modeling, Excel
+- **Programming:** Python
+- **Visualization & Design:** Figma
+
+---
+
+## 📊 Featured Projects
+
+### NexaCommerce Analytics
+
+Business Intelligence case desenvolvido para uma operação fictícia de e-commerce, com foco em performance comercial e financeira.
+
+**Power BI • DAX • Power Query • Python • Data Modeling • Figma**
+
+> Projeto em construção no GitHub.
+
+---
+
+## 🎓 Background
+
+**Computer Science — Universidade Presbiteriana Mackenzie**
+
+---
+
+## 📌 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Commercial Analytics
+- Pricing & Market Intelligence
+
+---
+
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/lucasfariasdasilva/
